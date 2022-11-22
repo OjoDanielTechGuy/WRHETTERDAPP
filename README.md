@@ -10,7 +10,7 @@ This website allows for Miniting of NFT and uses blockchain system for it's proc
 
 - React
 - Next.js
-- Sanity.io as backed database to store tweet
+- Sanity.io as backend database to store tweet
 - Metamask
 - Remix IDE
 - Test network built on ethereum blockchain
@@ -22,9 +22,9 @@ This website allows for Miniting of NFT and uses blockchain system for it's proc
 
 ---
 
-- In your root directory type in **npx create-next-app@latest -e with-tailwindcss (choosen name of folder)**
-- In the folder created Using sanity type in the sanity installation guide **[Sanity Website to get installation guide](sanity.io/cleverprogrammer) - npm install -g @sanity/cli**
-- Create a new directory (studio) in the root directory type in **sanity init --coupon cleverprogrammer**
+**npx create-next-app@latest -e with-tailwindcss (choosen name of folder)**
+- **[Sanity Website to get installation guide](sanity.io/cleverprogrammer) - npm install -g @sanity/cli**
+- **sanity init --coupon cleverprogrammer**
   - Give it a project name
   - Use default configuration
   - default project output
@@ -33,4 +33,5 @@ This website allows for Miniting of NFT and uses blockchain system for it's proc
 
 ---
 ### Components Installation (Icons)
-- In your **_root directory_** directory type in **yarn add react-icons** to install icon components
+- **npm install react-icons** to install icon components
+- 
