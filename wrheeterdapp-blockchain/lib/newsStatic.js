@@ -2,25 +2,25 @@ export const news = [
   {
     category: "HiMark Academy Programming Session • LIVE",
     title: "HiMark Academy is live on YouTube!",
-    image:
-      "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/284832/settings_images/rLlCifhXRJiT0RoN2FjK_Logo_roundbackground_black.png",
+    image: "https://pbs.twimg.com/media/El43PAmWoAgp5XF.jpg",
   },
   {
     category: "Nigeria • Trending",
     title: "Naira Redesign by the Federal Government",
-    image: "https://avatars.githubusercontent.com/u/17177659?s=280&v=4",
+    image:
+      "https://www.currentschoolnews.com/wp-content/uploads/2020/07/FEC-meeting.jpg",
   },
   {
     category: "Web3.0 • Trending",
     title: "Blockchain developers make over $150k",
     image:
-      "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/L424HUS65FGRVFPTYYPG24CIYI.jpg",
+      "https://www.cyberbahnit.com/wp-content/uploads/2017/11/blockchain.jpg",
   },
   {
     category: "Football • Trending",
     title: "World Cup in Qatar",
     image:
-      "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/site/18907/products/cIkAZXNyRZimRw4uqXVX_gDvYTtwQsC33KZqCtbpB_image.jpg",
+      "https://media.premiumtimesng.com/wp-content/files/2022/10/MSport-World-Cup-1.jpg",
   },
 ];
 
